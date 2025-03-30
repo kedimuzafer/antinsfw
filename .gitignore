@@ -1,0 +1,70 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Keystore files
+*.jks
+*.keystore
+
+# Built application files
+*.apk
+*.aab
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+*/build/
+**/build/
+*/build/generated/
+**/build/generated/
+
+# Local configuration file (sdk path, etc) - Redundant with line 2, but safe to keep both
+local.properties
+
+# Log Files
+*.log
+
+# Android Studio Navigation editor files
+.navigation/
+
+# Android Studio captures folder - Redundent with line 11, but safe to keep both
+captures/
+
+# Other IDE files
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/dictionaries/
+.idea/httpRequests/
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiler captures
+*.hprof
+
+# Lint results
+lint-results-*.xml
+
+# Mac OS - Already present as .DS_Store
+
+# Windows thumbs db
+Thumbs.db
+install.sh
+file_selector
+file_selector.c
